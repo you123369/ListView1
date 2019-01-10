@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">q2</string>
+    <string-array name="major_array">
+        <item>SE</item>
+        <item>CPE</item>
+        <item>CS</item>
+        <item>IT</item>
+        <item>CE</item>
+    </string-array>
+</resources>
